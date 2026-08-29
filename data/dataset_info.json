@@ -1,0 +1,32 @@
+{
+  "train_steel_1": {
+    "file_name": "steel_dataset/train_steel_1.json"
+  },
+  "test_steel_1": {
+    "file_name": "steel_dataset/test_steel_1.json"
+  },
+  "train_steel_2": {
+    "file_name": "steel_dataset/train_steel_2.json"
+  },
+  "test_steel_2": {
+    "file_name": "steel_dataset/test_steel_2.json"
+  },
+  "train_steel_3": {
+    "file_name": "steel_dataset/train_steel_3.json"
+  },
+  "test_steel_3": {
+    "file_name": "steel_dataset/test_steel_3.json"
+  },
+  "train_steel_4": {
+    "file_name": "steel_dataset/train_steel_4.json"
+  },
+  "test_steel_4": {
+    "file_name": "steel_dataset/test_steel_4.json"
+  },
+  "train_steel_5": {
+    "file_name": "steel_dataset/train_steel_5.json"
+  },
+  "test_steel_5": {
+    "file_name": "steel_dataset/test_steel_5.json"
+  }
+}
